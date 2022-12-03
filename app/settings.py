@@ -78,7 +78,7 @@ WSGI_APPLICATION = 'app.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': 'newsapp',
+        'NAME': 'santrikoding_newsapp',
         'USER': 'root',
         'PASSWORD': '1234',
         'HOST': 'localhost',
